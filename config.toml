@@ -1,8 +1,7 @@
 baseURL = "localhost"
-title   = "test page"
-languageCode = "en-us"
+DefaultContentLanguage = "en"
 theme = "hello-friend-ng"
-
+title = "KYANOS lab."
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
@@ -33,8 +32,14 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+# Metadata mostly used in document's head
+#
+description = "I'll give you my all."
+keywords = ""
+images = [""]
+
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/posts/:year/:month/:slug/"
 
 [author]
   name = "Suhito Sagara"
@@ -47,22 +52,59 @@ disableHugoGeneratorInject = false
   category = "categories"
   series   = "series"
 
+
+[languages]
+  [languages.en]
+  contentDir = "content/en"
+  languageName = "English"
+  weight = 1
+  title = "KYANOS lab."
+  subtitle = "en."
+
+    [languages.en.params]
+      dateform        = "02 Jan 2006"
+      dateformShort   = "02 Jan"
+      dateformNum     = "2006-01-02"
+      dateformNumTime = "2006-01-02 15:04"
+      homeSubtitle = "\"Forward! Forward! No matter what happens, GO FORWARD!\" - Thomas Wade"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name       = "About"
+        url        = "about/"
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name       = "Posts"
+        url        = "posts/"
+
+    [languages.ja]
+      contentDir = "content/ja"
+      languageName = "Japanese"
+      weight = 2
+      title = "群青研究所"
+
+      [languages.ja.params]
+        dateform        = "2006-01-02"
+        dateformShort   = "01-02"
+        dateformNum     = "2006-01-02"
+        dateformNumTime = "2006-01-02 15:04"
+        homeSubtitle = "「前へ！前へ！何があろうと前へ！」- トマス・ウェイド"
+
+      [languages.ja.menu]
+        [[languages.ja.menu.main]]
+          identifier = "about"
+          name       = "このサイトについて"
+          url        = "about/"
+        [[languages.ja.menu.main]]
+          identifier = "posts"
+          name       = "投稿一覧"
+          url        = "posts/"
+
+
+
+
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
-
-  # Metadata mostly used in document's head
-  #
-  description = "Nice theme for homepages and blogs"
-  keywords = ""
-  images = [""]
-
-  # Home subtitle of the index page.
-  #
-  homeSubtitle = "Hello Friend NG"
-
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
 
@@ -159,42 +201,9 @@ disableHugoGeneratorInject = false
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nobody@example.com"
-
-  [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/1plus1is3"
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
-
-[languages]
-  [languages.en]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    name = "twitter"
+    url  = "https://twitter.com/1plus1is__"
