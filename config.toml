@@ -16,7 +16,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "docs"
 
 buildDrafts  = false
 buildFuture  = false
@@ -48,7 +48,7 @@ images = [""]
   hrefTargetBlank = true
 
 [taxonomies]
-  tag      = "tags"
+  # tag      = "tags"
   category = "categories"
   series   = "series"
 
@@ -59,7 +59,6 @@ images = [""]
   languageName = "English"
   weight = 1
   title = "KYANOS lab."
-  subtitle = "en."
 
     [languages.en.params]
       dateform        = "02 Jan 2006"
@@ -72,11 +71,11 @@ images = [""]
       [[languages.en.menu.main]]
         identifier = "about"
         name       = "About"
-        url        = "about/"
+        url        = "/about/"
       [[languages.en.menu.main]]
         identifier = "posts"
         name       = "Posts"
-        url        = "posts/"
+        url        = "/posts/"
 
     [languages.ja]
       contentDir = "content/ja"
