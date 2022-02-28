@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>localhost/posts/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="localhost/ja/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="localhost/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>localhost/posts/2022/02/test-en/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="localhost/ja/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="localhost/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>localhost/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="localhost/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="localhost/"
+                />
+  </url>
+  
+  <url>
+    <loc>localhost/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="localhost/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="localhost/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>localhost/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="localhost/ja/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="localhost/series/"
+                />
+  </url>
+  
+</urlset>
