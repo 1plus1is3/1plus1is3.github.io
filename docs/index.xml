@@ -6,10 +6,19 @@
     <description>Recent content on KYANOS lab.</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://1plus1is3.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://1plus1is3.github.io/abouten/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://1plus1is3.github.io/abouten/</guid>
+      <description>About  Name: Suhito Sagara Twitter: https://twitter.com/1plus1is__ (JP, EN ok) GitHub: https://github.com/1plus1is3/ Qiita: https://qiita.com/1plus1is3/ (only Japanese)(basically, records of problem solving) HackTheBox: 1plus1is3 (Haven&amp;rsquo;t done much lately&amp;hellip;) CryptoHack: https://cryptohack.org/user/1plus1is3/ Portfolio Site: https://1plus1is3.github.io/ (here!)  Profile  Computer Science (Master degree, 2021) Cryptography (Post-Quantum Cryptography; Lattice, SIDH) Programming (Python, Go, C) (HTML&amp;amp;CSS, PHP)  </description>
+    </item>
     
     <item>
       <title>test-en</title>
@@ -18,17 +27,6 @@
       
       <guid>https://1plus1is3.github.io/posts/2022/02/test-en/</guid>
       <description>Test This is test page in English.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://1plus1is3.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://1plus1is3.github.io/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
     </item>
     
   </channel>
