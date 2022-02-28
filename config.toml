@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "https://1plus1is3.github.io/"
 DefaultContentLanguage = "en"
 theme = "hello-friend-ng"
 title = "KYANOS lab."
