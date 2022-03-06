@@ -13,10 +13,10 @@
     
     <item>
       <title>ブログ始めました</title>
-      <link>https://1plus1is3.github.io/ja/posts/2022/03/%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <link>https://1plus1is3.github.io/ja/posts/2022/03/03/atfirst_ja/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://1plus1is3.github.io/ja/posts/2022/03/%E3%83%96%E3%83%AD%E3%82%B0%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <guid>https://1plus1is3.github.io/ja/posts/2022/03/03/atfirst_ja/</guid>
       <description>2022年2月、応用情報技術者試験に追われながらポートフォリオサイトを開設しました。
 　3月に立て続けにカジュアル含め面談の機会ができたためです。また、きちんとコードを書いてGitHubを使っていこうといういい機会にもなりました。
 　トップページとAboutページ、およびブログにあたるPostsページのみというかなりミニマルな構成ですが、Aboutページに技術的な目的で使用している各サービスへのリンクをつけているので、サイトとしてはこれで十分だと思っています。
@@ -44,10 +44,10 @@ GitHub Pages+HUGOという選択肢 　はてなブログなど既存のブロ�
     
     <item>
       <title></title>
-      <link>https://1plus1is3.github.io/ja/aboutjp/</link>
+      <link>https://1plus1is3.github.io/ja/about_ja/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://1plus1is3.github.io/ja/aboutjp/</guid>
+      <guid>https://1plus1is3.github.io/ja/about_ja/</guid>
       <description>About  Name: 相良スヒト Twitter: https://twitter.com/1plus1is__ (日英対応可) GitHub: https://github.com/1plus1is3/ Qiita: https://qiita.com/1plus1is3/ (主に問題解決記録) CryptoHack: https://cryptohack.org/user/1plus1is3/ HackTheBox: 1plus1is3 (そんなにやっていません) Blog: https://1plus1is3.github.io/ (ここのことです)  Profile  工学(修士, 2021) 暗号理論(耐量子計算機暗号; 格子暗号、同種写像暗号) 好き言語: Python, Go, C その他言語: HTML&amp;amp;CSS, PHP  </description>
     </item>
     
