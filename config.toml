@@ -39,7 +39,7 @@ keywords = ""
 images = [""]
 
 [permalinks]
-  posts = "/posts/:year/:month/:slug/"
+  posts = "/posts/:year/:month/:day/:slug/"
 
 [author]
   name = "Suhito Sagara"

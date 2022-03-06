@@ -1,5 +1,6 @@
 +++
 title = "ブログ始めました"
+slug = "atfirst_ja"
 date = "03 Mar 2022"
 [ author ]
 name = "相良　スヒト"
