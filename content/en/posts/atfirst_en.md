@@ -1,7 +1,7 @@
 +++
 title = "I started a blog"
 slug = "atfirst_en"
-date = "06 Mar 2022"
+date = "03 Mar 2022"
 [ author ]
 name = "Suhito Sagara"
 +++
@@ -73,4 +73,3 @@ name = "Suhito Sagara"
 　That's all.
 
 
-Translated with www.DeepL.com/Translator (free version)
