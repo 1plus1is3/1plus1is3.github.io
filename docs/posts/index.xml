@@ -24,7 +24,6 @@
 <p>　By specifying the obtained API key and the city name or latitude and longitude in the program, the graph of temperature and pressure is drawn.</p>
 <p>　By viewing this graph together with the temperature graph, we can predict that June 6 is likely to be a very stormy day with low temperatures and low pressure.</p>
 <p>　We would like to add more functions such as displaying daily weather forecasts as icons, but we have uploaded the project to GitHub.</p>
-<p>　<a href="https://github.com/1plus1is3/forecast">forecast</a></p>
 ]]></content>
         </item>
         
