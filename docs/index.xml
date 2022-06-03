@@ -6,10 +6,22 @@
     <description>Recent content on KYANOS lab.</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://1plus1is3.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Temperature and pressure forecasting program in Python</title>
+      <link>https://1plus1is3.github.io/posts/2022/06/03/forecast/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://1plus1is3.github.io/posts/2022/06/03/forecast/</guid>
+      <description>I feel headache and lethargy when the atmospheric pressure drops suddenly, so I created this app hoping to forecast the atmospheric pressure.
+　There are many weather forecasting apps and services, but I couldn&amp;rsquo;t find a free service that provides a relatively long-term (5 days) atmospheric pressure forecast.
+　OpenWeatherMap is an overseas company, but it seems to cover Japanese cities to some extent.
+　By specifying the obtained API key and the city name or latitude and longitude in the program, the graph of temperature and pressure is drawn.</description>
+    </item>
     
     <item>
       <title>I started a blog</title>
@@ -24,11 +36,11 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://1plus1is3.github.io/about_en/</link>
-      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <title>about me</title>
+      <link>https://1plus1is3.github.io/abouten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://1plus1is3.github.io/about_en/</guid>
+      <guid>https://1plus1is3.github.io/abouten/</guid>
       <description>About  Name: Suhito Sagara Twitter: https://twitter.com/1plus1is__ (JP, EN ok) GitHub: https://github.com/1plus1is3/ Qiita: https://qiita.com/1plus1is3/ (only Japanese)(basically, records of problem solving) TryHackMe: https://tryhackme.com/p/1plus1is3 HackTheBox: 1plus1is3 (Haven&amp;rsquo;t done much lately&amp;hellip;) CryptoHack: https://cryptohack.org/user/1plus1is3/ Portfolio Site: https://1plus1is3.github.io/ (here!)  Profile  Computer Science (Master degree, 2021) Cryptography (Post-Quantum Cryptography; Lattice, SIDH) Programming (Python, Go, C) (HTML&amp;amp;CSS, PHP)  </description>
     </item>
     

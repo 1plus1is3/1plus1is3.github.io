@@ -12,6 +12,21 @@
     
     
     <item>
+      <title>Pythonで気温・気圧予報プログラムを書きました</title>
+      <link>https://1plus1is3.github.io/ja/posts/2022/06/03/forecast/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://1plus1is3.github.io/ja/posts/2022/06/03/forecast/</guid>
+      <description>私は気圧が急激に下がると頭痛やだるさを覚えるので、気圧を予報できればいいなと思ってつくったものです。
+　天気予報のアプリやサービスは数多くありますが、5日間という比較的長期の気圧予報を無料で見られるサービスは見当たりませんでした。
+　OpenWeatherMap社は海外の企業ですが、日本の都市もある程度カバーしているようです。
+　取得したAPIキーとプログラム内で都市名または緯度・経度を指定することで、気温・気圧のグラフを描画します。
+　気温グラフと合わせて見ることで、6月6日が気温・気圧ともに低く、大荒れの天気らしいことが予測されます。
+　日ごとの天気予報をアイコンで表示するなど、まだまだ機能を足したいところではありますが、一旦GitHubへもアップロードしました。
+　forecast</description>
+    </item>
+    
+    <item>
       <title>ブログ始めました</title>
       <link>https://1plus1is3.github.io/ja/posts/2022/03/03/atfirst_ja/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
@@ -40,11 +55,11 @@ GitHub Pages+HUGOという選択肢 　はてなブログなど既存のブロ�
     </item>
     
     <item>
-      <title></title>
-      <link>https://1plus1is3.github.io/ja/about_ja/</link>
+      <title>このサイトについて</title>
+      <link>https://1plus1is3.github.io/ja/aboutjp/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://1plus1is3.github.io/ja/about_ja/</guid>
+      <guid>https://1plus1is3.github.io/ja/aboutjp/</guid>
       <description>About  Name: 相良スヒト Twitter: https://twitter.com/1plus1is__ (日英対応可) GitHub: https://github.com/1plus1is3/ Qiita: https://qiita.com/1plus1is3/ (主に問題解決記録) CryptoHack: https://cryptohack.org/user/1plus1is3/ TryHackMe: https://tryhackme.com/p/1plus1is3 HackTheBox: 1plus1is3 (そんなにやっていません) Blog: https://1plus1is3.github.io/ (ここのことです)  Profile  工学(修士, 2021) 暗号理論(耐量子計算機暗号; 格子暗号、同種写像暗号) 好き言語: Python, Go, C その他言語: HTML&amp;amp;CSS, PHP  </description>
     </item>
     
