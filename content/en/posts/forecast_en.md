@@ -18,3 +18,5 @@ name = "Suhito Sagara"
 　By viewing this graph together with the temperature graph, we can predict that June 6 is likely to be a very stormy day with low temperatures and low pressure.
 
 　We would like to add more functions such as displaying daily weather forecasts as icons, but we have uploaded the project to GitHub.
+
+[forecast](https://github.com/1plus1is3/forecast)
