@@ -1,6 +1,9 @@
 +++
-date = "2022-02-28"
-author = "相良スヒト"
+title = "このサイトについて"
+slug = "aboutjp"
+date = "28 Feb 2022"
+[ author ]
+name = "相良　スヒト"
 +++
 
 # About
@@ -9,6 +12,7 @@ author = "相良スヒト"
 * GitHub: https://github.com/1plus1is3/
 * Qiita: https://qiita.com/1plus1is3/ (主に問題解決記録)
 * CryptoHack: https://cryptohack.org/user/1plus1is3/
+* TryHackMe: https://tryhackme.com/p/1plus1is3
 * HackTheBox: 1plus1is3 (そんなにやっていません)
 * Blog: https://1plus1is3.github.io/ (ここのことです)
 
@@ -17,4 +21,3 @@ author = "相良スヒト"
 * 暗号理論(耐量子計算機暗号; 格子暗号、同種写像暗号)
 * 好き言語: Python, Go, C
 * その他言語: HTML&CSS, PHP
-

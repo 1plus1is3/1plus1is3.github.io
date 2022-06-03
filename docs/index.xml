@@ -13,12 +13,13 @@
     
     <item>
       <title>I started a blog</title>
-      <link>https://1plus1is3.github.io/posts/2022/03/06/atfirst_en/</link>
-      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <link>https://1plus1is3.github.io/posts/2022/03/03/atfirst_en/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://1plus1is3.github.io/posts/2022/03/06/atfirst_en/</guid>
+      <guid>https://1plus1is3.github.io/posts/2022/03/03/atfirst_en/</guid>
       <description>In February 2022, I launched my portfolio site while I was busy with the Applied Information Technology exam.
-　In March, I had a series of opportunities for interviews, including casual ones. It was also a good opportunity for me to write code and use GitHub.
+(The GitHub history is a bit strange because I updated it significantly in June 2022.)
+　This is due to the fact that I was able to get a chance to stand up and meet with them. It was also a good opportunity to write code and use GitHub properly.
 　The site has a fairly minimalist structure, with only the top page, an About page, and a Posts page, which is a blog.</description>
     </item>
     
@@ -28,16 +29,7 @@
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://1plus1is3.github.io/about_en/</guid>
-      <description>About  Name: Suhito Sagara Twitter: https://twitter.com/1plus1is__ (JP, EN ok) GitHub: https://github.com/1plus1is3/ Qiita: https://qiita.com/1plus1is3/ (only Japanese)(basically, records of problem solving) HackTheBox: 1plus1is3 (Haven&amp;rsquo;t done much lately&amp;hellip;) CryptoHack: https://cryptohack.org/user/1plus1is3/ Portfolio Site: https://1plus1is3.github.io/ (here!)  Profile  Computer Science (Master degree, 2021) Cryptography (Post-Quantum Cryptography; Lattice, SIDH) Programming (Python, Go, C) (HTML&amp;amp;CSS, PHP)  </description>
-    </item>
-    
-    <item>
-      <title>test-en</title>
-      <link>https://1plus1is3.github.io/posts/2022/02/28/test-en/</link>
-      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://1plus1is3.github.io/posts/2022/02/28/test-en/</guid>
-      <description>Test This is test page in English.</description>
+      <description>About  Name: Suhito Sagara Twitter: https://twitter.com/1plus1is__ (JP, EN ok) GitHub: https://github.com/1plus1is3/ Qiita: https://qiita.com/1plus1is3/ (only Japanese)(basically, records of problem solving) TryHackMe: https://tryhackme.com/p/1plus1is3 HackTheBox: 1plus1is3 (Haven&amp;rsquo;t done much lately&amp;hellip;) CryptoHack: https://cryptohack.org/user/1plus1is3/ Portfolio Site: https://1plus1is3.github.io/ (here!)  Profile  Computer Science (Master degree, 2021) Cryptography (Post-Quantum Cryptography; Lattice, SIDH) Programming (Python, Go, C) (HTML&amp;amp;CSS, PHP)  </description>
     </item>
     
   </channel>

@@ -8,7 +8,9 @@ name = "Suhito Sagara"
 
 　In February 2022, I launched my portfolio site while I was busy with the Applied Information Technology exam.
 
-　In March, I had a series of opportunities for interviews, including casual ones. It was also a good opportunity for me to write code and use GitHub.
+(The GitHub history is a bit strange because I updated it significantly in June 2022.)
+
+　This is due to the fact that I was able to get a chance to stand up and meet with them. It was also a good opportunity to write code and use GitHub properly.
 
 　The site has a fairly minimalist structure, with only the top page, an About page, and a Posts page, which is a blog.
 
@@ -16,60 +18,58 @@ name = "Suhito Sagara"
 
 　Qiita is used to share problem-solving records.
 
-　The blog on this site is for the purpose of recording "I know this much" and "I'm doing this now" about cryptography and cyber security for the purpose of showing people (and for the purpose of looking back by myself).
+　I record my blog on this site as a way to show people (and look back on it myself) that I know what I'm doing and what I'm doing now.
 
-# Motive
-　I am of the generation where the Corona Disaster hit job hunting, so I have never properly exchanged business cards as a member of society.
+# Motivation
+I am from the generation where the Corona Disaster hit job hunting, so I have never exchanged business cards properly as a member of society.
 
-　When I was an M1 student, I was allowed to make business cards in the school's designated format with the name of my laboratory on them, and I scattered them around every time I attended an event or met someone from a company.
+　When I was an M1 student, I was allowed to make business cards in the format designated by the school with the name of my laboratory on them, and I used to scatter them around whenever I attended events or met people from companies, but now that they are gone, I realize how great they are.
 
-　Although many analog matters, such as seals and other corona disasters, have been pointed out as being obsolete, I think business cards are useful, and I would like to see them revived if possible.
+　Although there have been many analog matters that should be abolished in the wake of the Corona disaster, such as seals, I think business cards are useful, and I would like to see them revived if possible.
 
-　What I like about business cards is that they have name, affiliation, contact information, and the ability to write notes depending on the scene of the correspondence, all of which are necessary and sufficient for remembering and recalling people you have met for the first time.
+　So, even though I can't replace the business card itself, I decided that I would like to make "this is who I am" available online, and this portfolio site was born out of that desire.
 
-　So, this portfolio site was created because I wanted to do "this is who I am" online, even if it can't replace the business card itself.
-
-　I feel that it is currently smart to send the URL of this site during a video conference by chat, or to include the URL in an e-mail or Twitter message.
+　I feel that it is currently smart to send the URL of this site during a videoconference by chat, or to include the URL in an email or Twitter message.
 
 # GitHub Pages + HUGO as an option
 　Many people in the technical community use existing blogging services, and I have used them myself.
 
 　However, in creating my own portfolio site
 
-* URLs can easily become cumbersome
-* Domain is not memorable because it is covered by others
-* Limited customization
-* Japanese service is not familiar to foreign countries
+* URLs can be complicated
+* Limitations on page customization
+* Japanese service is not familiar to overseas users.
 
-　We felt these disadvantages, so we created a combination of GitHub Pages + HUGO (using the friend-hello-ng theme).
+　I felt these disadvantages, so I used a combination of GitHub Pages and HUGO (using the friend-hello-ng theme).
 
 　The name is linked to the GitHub account, the theme can be pulled from the designer's GitHub or created by the designer himself, and the support for Japanese and English has solved the above demerits.
 
-　At first, we were considering GitLab Pages + Gatsby because of its reputation, but since we were still unfamiliar with GitHub Pages, we decided to go with GitHub Pages because it had more knowledge about troubleshooting, etc. Gatsby's themes are still relatively few and we felt that it was more for designers, so we decided to reject it. It does not mean that it was not good, but that it was not suitable for me.
+At first, I was considering GitLab Pages and Gatsby because of their reputation, but since I was still unfamiliar with GitHub Pages, I decided to go with GitHub Pages because it had more knowledge about troubleshooting, etc. Gatsby's themes are still relatively few and I felt they were more for designers, so I rejected the idea. It's not that it wasn't good, it's just that it wasn't suitable for me.
 
-# What I will write in the future
-　Here is a systematic summary of what I would like to do in the future at this time.
+# What I am currently working on and what I can do
+* Python
+  * Displaying 5-day temperature and pressure graphs using OpenWeatherMap API, Pandas, and MatPlotLib
+  * Creating an English vocabulary learning web application using Django (I plan to link it with heroku and make it fly from this site)
+  * Machine learning using scikit-learn
+    * I am still learning because I have a lot of prerequisite knowledge.
 
-* Hands-on learning security
-  * Learning from HackTheBox and TryHackMe how to use various tools
-  * WriteUp of HTB Retired machine
+* HTML&CSS, PHP
+  * Web applications including vulnerabilities created in LAMP environment. I are planning to create an exchange bulletin board that can be browsed and written by registration only, and later on, I will use Burp Suite to perform vulnerability diagnosis and compile it into a report.
 
-* Three purposes of public key cryptography - signature (authentication), encryption, and key delivery
+* Security
+  * TryHackMe
+  * HackTheBox
 
-* What is quantum resistant computer cryptography (especially in terms of how it is often confused with quantum cryptography)
+* Preparation for the Applied Information Technology Engineer Examination
+  * I'm planning to take the exam in October 2022.
 
-* How much potential does the lattice structure have for cryptography as a whole?
-  * Can lattice cryptography become a standard for quantum resistant computer cryptography?
-  * Types of lattice ciphers and characteristics of each
-  * How to crack lattice ciphers, LWE Challenge, etc.
-  * A technique for cracking elliptic curve cryptography using the structure of a lattice
-    * Is the lattice also effective in deciphering homomorphic mapping ciphers?
+# Currently interested in the following fields
+* Rust, C++
+  * Dazzled by the abundance of libraries and frameworks in Python, but basically do not like dynamically typed languages and prefer to use statically typed languages when I want to increase execution speed
 
-* How much of the research on conventional elliptic curve cryptography can be transferred to homomorphic mapping cryptography, and what challenges are unique to homomorphic mapping.
-  * Can homogeneous mapping cryptography become a standard for quantum computer cryptography?
-  * Implementation Schemes for Homogeneous Mapping Cryptosystems
-  * How to decipher homogeneous mapping ciphers
+* Mathematics
+  * Algebra
+  * Algebraic geometry
+  * I especially enjoy elliptic curves and Arbel's what-around.
 
 　That's all.
-
-

@@ -5,95 +5,95 @@
         <description>Recent content in Posts on KYANOS lab.</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://1plus1is3.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>I started a blog</title>
-            <link>https://1plus1is3.github.io/posts/2022/03/06/atfirst_en/</link>
-            <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+            <link>https://1plus1is3.github.io/posts/2022/03/03/atfirst_en/</link>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
             
-            <guid>https://1plus1is3.github.io/posts/2022/03/06/atfirst_en/</guid>
+            <guid>https://1plus1is3.github.io/posts/2022/03/03/atfirst_en/</guid>
             <description>In February 2022, I launched my portfolio site while I was busy with the Applied Information Technology exam.
-　In March, I had a series of opportunities for interviews, including casual ones. It was also a good opportunity for me to write code and use GitHub.
+(The GitHub history is a bit strange because I updated it significantly in June 2022.)
+　This is due to the fact that I was able to get a chance to stand up and meet with them. It was also a good opportunity to write code and use GitHub properly.
 　The site has a fairly minimalist structure, with only the top page, an About page, and a Posts page, which is a blog.</description>
             <content type="html"><![CDATA[<p>　In February 2022, I launched my portfolio site while I was busy with the Applied Information Technology exam.</p>
-<p>　In March, I had a series of opportunities for interviews, including casual ones. It was also a good opportunity for me to write code and use GitHub.</p>
+<p>(The GitHub history is a bit strange because I updated it significantly in June 2022.)</p>
+<p>　This is due to the fact that I was able to get a chance to stand up and meet with them. It was also a good opportunity to write code and use GitHub properly.</p>
 <p>　The site has a fairly minimalist structure, with only the top page, an About page, and a Posts page, which is a blog.</p>
 <p>　On Twitter, I tweet about trivial matters, including daily life, and collect information.</p>
 <p>　Qiita is used to share problem-solving records.</p>
-<p>　The blog on this site is for the purpose of recording &ldquo;I know this much&rdquo; and &ldquo;I&rsquo;m doing this now&rdquo; about cryptography and cyber security for the purpose of showing people (and for the purpose of looking back by myself).</p>
-<h1 id="motive">Motive</h1>
-<p>　I am of the generation where the Corona Disaster hit job hunting, so I have never properly exchanged business cards as a member of society.</p>
-<p>　When I was an M1 student, I was allowed to make business cards in the school&rsquo;s designated format with the name of my laboratory on them, and I scattered them around every time I attended an event or met someone from a company.</p>
-<p>　Although many analog matters, such as seals and other corona disasters, have been pointed out as being obsolete, I think business cards are useful, and I would like to see them revived if possible.</p>
-<p>　What I like about business cards is that they have name, affiliation, contact information, and the ability to write notes depending on the scene of the correspondence, all of which are necessary and sufficient for remembering and recalling people you have met for the first time.</p>
-<p>　So, this portfolio site was created because I wanted to do &ldquo;this is who I am&rdquo; online, even if it can&rsquo;t replace the business card itself.</p>
-<p>　I feel that it is currently smart to send the URL of this site during a video conference by chat, or to include the URL in an e-mail or Twitter message.</p>
+<p>　I record my blog on this site as a way to show people (and look back on it myself) that I know what I&rsquo;m doing and what I&rsquo;m doing now.</p>
+<h1 id="motivation">Motivation</h1>
+<p>I am from the generation where the Corona Disaster hit job hunting, so I have never exchanged business cards properly as a member of society.</p>
+<p>　When I was an M1 student, I was allowed to make business cards in the format designated by the school with the name of my laboratory on them, and I used to scatter them around whenever I attended events or met people from companies, but now that they are gone, I realize how great they are.</p>
+<p>　Although there have been many analog matters that should be abolished in the wake of the Corona disaster, such as seals, I think business cards are useful, and I would like to see them revived if possible.</p>
+<p>　So, even though I can&rsquo;t replace the business card itself, I decided that I would like to make &ldquo;this is who I am&rdquo; available online, and this portfolio site was born out of that desire.</p>
+<p>　I feel that it is currently smart to send the URL of this site during a videoconference by chat, or to include the URL in an email or Twitter message.</p>
 <h1 id="github-pages--hugo-as-an-option">GitHub Pages + HUGO as an option</h1>
 <p>　Many people in the technical community use existing blogging services, and I have used them myself.</p>
 <p>　However, in creating my own portfolio site</p>
 <ul>
-<li>URLs can easily become cumbersome</li>
-<li>Domain is not memorable because it is covered by others</li>
-<li>Limited customization</li>
-<li>Japanese service is not familiar to foreign countries</li>
+<li>URLs can be complicated</li>
+<li>Limitations on page customization</li>
+<li>Japanese service is not familiar to overseas users.</li>
 </ul>
-<p>　We felt these disadvantages, so we created a combination of GitHub Pages + HUGO (using the friend-hello-ng theme).</p>
+<p>　I felt these disadvantages, so I used a combination of GitHub Pages and HUGO (using the friend-hello-ng theme).</p>
 <p>　The name is linked to the GitHub account, the theme can be pulled from the designer&rsquo;s GitHub or created by the designer himself, and the support for Japanese and English has solved the above demerits.</p>
-<p>　At first, we were considering GitLab Pages + Gatsby because of its reputation, but since we were still unfamiliar with GitHub Pages, we decided to go with GitHub Pages because it had more knowledge about troubleshooting, etc. Gatsby&rsquo;s themes are still relatively few and we felt that it was more for designers, so we decided to reject it. It does not mean that it was not good, but that it was not suitable for me.</p>
-<h1 id="what-i-will-write-in-the-future">What I will write in the future</h1>
-<p>　Here is a systematic summary of what I would like to do in the future at this time.</p>
+<p>At first, I was considering GitLab Pages and Gatsby because of their reputation, but since I was still unfamiliar with GitHub Pages, I decided to go with GitHub Pages because it had more knowledge about troubleshooting, etc. Gatsby&rsquo;s themes are still relatively few and I felt they were more for designers, so I rejected the idea. It&rsquo;s not that it wasn&rsquo;t good, it&rsquo;s just that it wasn&rsquo;t suitable for me.</p>
+<h1 id="what-i-am-currently-working-on-and-what-i-can-do">What I am currently working on and what I can do</h1>
 <ul>
 <li>
-<p>Hands-on learning security</p>
+<p>Python</p>
 <ul>
-<li>Learning from HackTheBox and TryHackMe how to use various tools</li>
-<li>WriteUp of HTB Retired machine</li>
-</ul>
-</li>
-<li>
-<p>Three purposes of public key cryptography - signature (authentication), encryption, and key delivery</p>
-</li>
-<li>
-<p>What is quantum resistant computer cryptography (especially in terms of how it is often confused with quantum cryptography)</p>
-</li>
-<li>
-<p>How much potential does the lattice structure have for cryptography as a whole?</p>
+<li>Displaying 5-day temperature and pressure graphs using OpenWeatherMap API, Pandas, and MatPlotLib</li>
+<li>Creating an English vocabulary learning web application using Django (I plan to link it with heroku and make it fly from this site)</li>
+<li>Machine learning using scikit-learn
 <ul>
-<li>Can lattice cryptography become a standard for quantum resistant computer cryptography?</li>
-<li>Types of lattice ciphers and characteristics of each</li>
-<li>How to crack lattice ciphers, LWE Challenge, etc.</li>
-<li>A technique for cracking elliptic curve cryptography using the structure of a lattice
-<ul>
-<li>Is the lattice also effective in deciphering homomorphic mapping ciphers?</li>
+<li>I am still learning because I have a lot of prerequisite knowledge.</li>
 </ul>
 </li>
 </ul>
 </li>
 <li>
-<p>How much of the research on conventional elliptic curve cryptography can be transferred to homomorphic mapping cryptography, and what challenges are unique to homomorphic mapping.</p>
+<p>HTML&amp;CSS, PHP</p>
 <ul>
-<li>Can homogeneous mapping cryptography become a standard for quantum computer cryptography?</li>
-<li>Implementation Schemes for Homogeneous Mapping Cryptosystems</li>
-<li>How to decipher homogeneous mapping ciphers</li>
+<li>Web applications including vulnerabilities created in LAMP environment. I are planning to create an exchange bulletin board that can be browsed and written by registration only, and later on, I will use Burp Suite to perform vulnerability diagnosis and compile it into a report.</li>
+</ul>
+</li>
+<li>
+<p>Security</p>
+<ul>
+<li>TryHackMe</li>
+<li>HackTheBox</li>
+</ul>
+</li>
+<li>
+<p>Preparation for the Applied Information Technology Engineer Examination</p>
+<ul>
+<li>I&rsquo;m planning to take the exam in October 2022.</li>
+</ul>
+</li>
+</ul>
+<h1 id="currently-interested-in-the-following-fields">Currently interested in the following fields</h1>
+<ul>
+<li>
+<p>Rust, C++</p>
+<ul>
+<li>Dazzled by the abundance of libraries and frameworks in Python, but basically do not like dynamically typed languages and prefer to use statically typed languages when I want to increase execution speed</li>
+</ul>
+</li>
+<li>
+<p>Mathematics</p>
+<ul>
+<li>Algebra</li>
+<li>Algebraic geometry</li>
+<li>I especially enjoy elliptic curves and Arbel&rsquo;s what-around.</li>
 </ul>
 </li>
 </ul>
 <p>　That&rsquo;s all.</p>
-<p>Translated with <a href="http://www.DeepL.com/Translator">www.DeepL.com/Translator</a> (free version)</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>test-en</title>
-            <link>https://1plus1is3.github.io/posts/2022/02/28/test-en/</link>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-            
-            <guid>https://1plus1is3.github.io/posts/2022/02/28/test-en/</guid>
-            <description>Test This is test page in English.</description>
-            <content type="html"><![CDATA[<h1 id="test">Test</h1>
-<p>This is test page in English.</p>
 ]]></content>
         </item>
         
