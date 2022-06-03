@@ -116,7 +116,7 @@ Jekyll's plugin:
         end
       end
     end
-    <!--Liquid::Template.register_tag('image', Jekyll::ImageTag)-->
+    Liquid::Template.register_tag('image', Jekyll::ImageTag)
 
 is written as this Hugo shortcode:
 

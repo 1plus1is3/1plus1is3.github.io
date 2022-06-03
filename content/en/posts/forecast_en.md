@@ -12,9 +12,8 @@ name = "Suhito Sagara"
 
 　OpenWeatherMap is an overseas company, but it seems to cover Japanese cities to some extent.
 
-　By specifying the obtained API key and the city name or latitude and longitude in the program, the following graph of temperature and pressure is drawn.
+　By specifying the obtained API key and the city name or latitude and longitude in the program, the graph of temperature and pressure is drawn.
 
-![Temperature and pressure graph](../../../data/forecast_fig1.png)
 
 　By viewing this graph together with the temperature graph, we can predict that June 6 is likely to be a very stormy day with low temperatures and low pressure.
 
