@@ -14,7 +14,7 @@ name = "Suhito Sagara"
 
 　By specifying the obtained API key and the city name or latitude and longitude in the program, the following graph of temperature and pressure is drawn.
 
-![Temperature and pressure graph](../../images/forecast_fig1.png)
+![Temperature and pressure graph](../../../data/forecast_fig1.png)
 
 　By viewing this graph together with the temperature graph, we can predict that June 6 is likely to be a very stormy day with low temperatures and low pressure.
 
