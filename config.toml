@@ -57,7 +57,7 @@ images = [""]
   [languages.en]
   contentDir = "content/en"
   languageName = "English"
-  weight = 1
+  weight = 2
   title = "KYANOS lab."
 
     [languages.en.params]
@@ -71,7 +71,7 @@ images = [""]
       [[languages.en.menu.main]]
         identifier = "about"
         name       = "About"
-        url        = "/aboutEN/"
+        url        = "/about/"
       [[languages.en.menu.main]]
         identifier = "posts"
         name       = "Posts"
@@ -80,7 +80,7 @@ images = [""]
     [languages.ja]
       contentDir = "content/ja"
       languageName = "Japanese"
-      weight = 2
+      weight = 1
       title = "群青研究所"
 
       [languages.ja.params]
@@ -94,7 +94,7 @@ images = [""]
         [[languages.ja.menu.main]]
           identifier = "about"
           name       = "このサイトについて"
-          url        = "/aboutJP/"
+          url        = "/about/"
         [[languages.ja.menu.main]]
           identifier = "posts"
           name       = "投稿一覧"
